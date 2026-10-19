@@ -1,0 +1,2 @@
+# infotec
+repositorio de infotec
